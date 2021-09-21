@@ -1,5 +1,7 @@
 /*
-This program uses the Metropolis-Hastings algorithm to find numerical data for the 2D ising model on a square lattice.  Quantities that can be found with this program are: Average magnetization, average energy density, magnetic suscpetibility, specific heat at different values of J,h and T and for various lattice sizes.
+This program uses the Metropolis-Hastings algorithm to find numerical data for the 2D ising model on a square lattice.  
+Quantities that can be found with this program are: Average magnetization, average energy density, magnetic suscpetibility, 
+specific heat at different values of J,h and T and for various lattice sizes.
 
 The code also can be used to demonstrate the phenomenon of hysteresis.
 
